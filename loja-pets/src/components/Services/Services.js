@@ -1,5 +1,5 @@
-function Navbar() {
-  return <div className='Navbar'></div>;
+function Services() {
+  return <div className='Services'></div>;
 }
 
-export default Navbar;
+export default Services;

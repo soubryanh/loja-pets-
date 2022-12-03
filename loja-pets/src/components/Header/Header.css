@@ -1,0 +1,10 @@
+.component1 {
+  width: 1199px;
+  height: 94px;
+  position: relative;
+}
+.dummy-container {
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 900px;
+}
