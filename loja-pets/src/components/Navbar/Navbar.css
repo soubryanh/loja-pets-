@@ -1,0 +1,36 @@
+a,
+a:focus,
+a:target {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav {
+  padding: 1rem;
+  position: relative;
+  background: unset;
+  right: unset;
+  width: unset;
+}
+
+.site-nav {
+  display: flex;
+  justify-content: center;
+}
+
+.site-nav li a {
+  padding: 0.3em 1em;
+}
+
+.site-nav .footprint {
+  width: 35px;
+  margin: -9px;
+  padding-right: 7px;
+}
