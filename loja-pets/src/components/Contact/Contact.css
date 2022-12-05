@@ -1,0 +1,55 @@
+.contact-section {
+  background: var(--bg-light-color);
+  display: flex;
+  justify-content: center;
+}
+
+.contact-section form {
+  width: 50%;
+}
+
+.maps iframe {
+  width: 450px;
+  height: 400px;
+}
+
+.form-control {
+  margin-bottom: 5px;
+  padding-bottom: 10px;
+  position: relative;
+}
+
+input,
+textarea {
+  width: 70%;
+  padding: 0.95rem;
+  margin: 0.2rem;
+  border-radius: 7px;
+  background-color: var(--bg-clr);
+  font-family: Poppins;
+  color: #fff;
+  outline: none;
+  font-size: 200;
+}
+
+.custom-cta.dark {
+  background: var(--bg-clr);
+}
+
+.submit {
+  background-image: linear-gradient(
+    135deg,
+    #ffff77 0,
+    #fff14e 25%,
+    #f8d110 50%,
+    #deb100 75%,
+    #c79500 100%
+  );
+  border-radius: 28px;
+  border: none;
+  color: var(--bg-clr);
+  text-align: center;
+  padding: 0 1.5em;
+  font-size: 13px;
+  height: 28px;
+}
