@@ -16,6 +16,8 @@ function About() {
               adipisicing elit. Mollitia id assumenda dolor ex numquam ea eos
               libero dolorem laudantium deserunt fuga et commodi voluptatibus
               sequi expedita, blanditiis doloribus quisquam architecto?
+              dqv-uakv-xqcsequi expedita, blanditiis doloribus quisquam
+              architecto?
             </p>
           </div>
           <aside className='image'>
